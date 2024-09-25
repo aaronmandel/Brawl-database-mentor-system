@@ -1,1 +1,1 @@
-A project I made from my HL IB Computer Science Individual Assesment. It aims to connect mentors and players together based on weapon and character specailsations. 
+A project I made from my HL IB Computer Science Individual Assesment. It aims to connect mentors and players together based on weapon and character specailsations. I achieved a 6/7 for this specific project.
